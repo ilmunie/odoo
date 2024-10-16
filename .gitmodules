@@ -1,0 +1,74 @@
+[submodule "addons/roc_custom"]
+	path = addons/roc_custom
+	url = https://github.com/ilmunie/roc_custom.git
+	branch = main
+[submodule "addons/web"]
+	path = addons/web
+	url = https://github.com/OCA/web.git
+	branch = 15.0
+[submodule "addons/stock-logistics-workflow"]
+	path = addons/stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow.git
+	branch = 15.0
+[submodule "addons/stock-logistics-warehouse"]
+	path = addons/stock-logistics-warehouse
+	url = https://github.com/OCA/stock-logistics-warehouse.git
+	branch = 15.0
+[submodule "addons/stock-logistics-reporting"]
+	path = addons/stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting.git
+	branch = 15.0
+[submodule "addons/social"]
+	path = addons/social
+	url = https://github.com/OCA/social.git
+	branch = 15.0
+[submodule "addons/purchase-workflow"]
+	path = addons/purchase-workflow
+	url = https://github.com/OCA/purchase-workflow.git
+	branch = 15.0
+[submodule "addons/l10n-spain"]
+	path = addons/l10n-spain
+	url = https://github.com/OCA/l10n-spain.git
+	branch = 15.0
+[submodule "addons/enterprise"]
+	path = addons/enterprise
+	url = https://github.com/odoo/enterprise.git
+	branch = 15.0
+[submodule "addons/roconsa-extra"]
+	path = addons/roconsa-extra
+	url = https://github.com/ilmunie/roconsa-extra-2.git
+	branch = master
+[submodule "addons/combo_product"]
+	path = addons/combo_product
+	url = https://github.com/ilmunie/combo_product.git
+	branch = main
+[submodule "addons/reporting-engine"]
+	path = addons/reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 15.0
+[submodule "addons/server-ux"]
+	path = addons/server-ux
+	url = https://github.com/OCA/server-ux.git
+	branch = 15.0
+[submodule "addons/server-auth"]
+	path = addons/server-ux
+	url = https://github.com/OCA/server-auth.git
+	branch = 15.0
+[submodule "addons/odoo-whatsapp-api"]
+	path = addons/odoo-whatsapp-api
+	url = https://github.com/chatwithio/odoo-whatsapp-api.git
+	branch = 15.0
+[submodule "addons/activity_automation"]
+	path = addons/activity_automation
+	url = https://github.com/ilmunie/activity_automation.git
+	branch = main
+[submodule "addons/mail_automation"]
+	path = addons/mail_automation
+	url = https://github.com/ilmunie/mail_automation.git
+	branch = main
+
+
+
+
+
+
